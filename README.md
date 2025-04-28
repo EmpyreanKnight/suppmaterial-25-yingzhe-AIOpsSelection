@@ -26,7 +26,6 @@ As some experiments could take a prolonged time to finish, we recommend executin
 
 ## Experiment Results Data
 This part contains the output data from our main experiments. All output CSV files could be found under the `results` folder.
-We organize the CSV files into two folders. The `preliminary_results` folder contains files for the Preliminary Study section, while the `experiment_results` folder contains files for our main results, we only provide the CSV files after combining separate files together for simplicity.
 
 ## Results Analysis
 This part contains code for the analysis of our experiment results. All code could be found under the `analysis` folder.
